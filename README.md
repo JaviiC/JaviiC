@@ -23,8 +23,7 @@
   <code><img title="Docker" height="25" src="images/logo_docker.png"></code>
   <code><img title="MySQL" height="25" src="images/mysql.png"></code>
   <code><img title="Git" height="25" src="images/logo_git.png"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/logo_visual_studio_code.png"></code>
   <code><img title="Python" height="25" src="images/logo_python.png"></code>
-  <code><img title="Spring" height="25" src="images/logo_spring.png"></code>
+  <code><img title="Visual Studio Code" height="25" src="images/logo_visual_studio_code.png"></code>
 </p>
 <hr>
