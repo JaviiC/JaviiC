@@ -20,6 +20,7 @@
   <code><img title="HTML5" height="25" src="images/logo_html.png"></code>
   <code><img title="CSS3" height="25" src="images/logo_css.png"></code>
   <code><img title="JavaScript" height="25" src="images/logo_javascript.png"></code>
+  <code><img title="MySQL" height="25" src="images/mysql.png"></code>
   <code><img title="Git" height="25" src="images/logo_git.png"></code>
   <code><img title="Visual Studio Code" height="25" src="images/logo_visual_studio_code.png"></code>
   <code><img title="Spring" height="25" src="images/logo_spring.png"></code>
